@@ -37,6 +37,7 @@ services:
       MYSQL_PASSWORD: password
       MYSQL_HOST: db
       JWT_SECRET: secret
+      MYSQL_NAME: Trybesmith
 
   # Serviço que irá rodar o banco de dados
   db:
