@@ -8,7 +8,6 @@ const app = express();
 
 app.use(express.json());
 
-// Criar rotas aqui
 app.use('/login', loginRoutes);
 app.use('/orders', orderRoutes);
 app.use('/products', productRoutes);

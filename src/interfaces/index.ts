@@ -31,3 +31,16 @@ export interface IOrder {
 export interface Order extends IOrder {
   id: number;
 }
+
+export interface IProductId {
+  id: number;
+}
+
+export interface IOrderInsert {
+  userId: number;
+  productsIds: number[];
+}
+
+export interface ITokenUsername {
+  username: string;
+}

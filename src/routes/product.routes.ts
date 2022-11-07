@@ -1,6 +1,6 @@
 import { Router } from 'express';
 import * as ProductController from '../controllers/product.controller';
-import validateProductBody from '../middlewares/product.middleware';
+import validateProductBody from '../middlewares/product.validation';
 
 const router = Router();
 
