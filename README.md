@@ -1,6 +1,4 @@
 <h1 align="center">TypeScript Trybesmith</h1>
-<h3 align="center">This was a project developed in the back-end module of Web Development Course of <a href=https://www.betrybe.com>Trybe</a></h3>
-<br>
 
 🔭 For this project, I created a medieval items shop, in the form of an API, using Typescript, in which :
 
